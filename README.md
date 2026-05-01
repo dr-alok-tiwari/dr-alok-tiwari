@@ -1,233 +1,277 @@
-<!--
-Premium GitHub Profile README for Dr. Alok Tiwari
-Theme: Deep Navy + Cyan + Violet + Gold
-Replace placeholder links for LinkedIn / Google Scholar / ORCID if needed.
--->
+<!-- Dr. Alok Tiwari — GitHub Profile README -->
+<!-- Theme: Deep Navy · Cyan · Violet · Gold -->
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Dr. Alok Tiwari | AI, Healthcare Analytics and Big Data" width="100%" />
+  <img src="./assets/banner.svg" alt="Dr. Alok Tiwari — Medical Imaging AI · Healthcare Analytics · MLOps · GenAI" width="100%" />
 </p>
 
-<h1 align="center">Dr. Alok Tiwari</h1>
-
-<h3 align="center">
-  Assistant Professor · Big Data Analytics · AI in Healthcare · Machine Learning · Medical Imaging
-</h3>
-
 <p align="center">
-  <a href="https://dr-alok-tiwari.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://dr-alok-tiwari.github.io/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-GitHub%20Pages-1E3A8A?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dr-alok-tiwari/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=jE6HZ0gAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-44%20citations%20·%20h--4-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0000-0003-3605-8565">
+    <img src="https://img.shields.io/badge/ORCID-0000--0003--3605--8565-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
   <a href="mailto:shodhkarta.alok@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/dr-alok-tiwari/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://scholar.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+    <img src="https://img.shields.io/badge/Email-Collaborate-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dr-alok-tiwari&label=Profile%20Views&color=06B6D4&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dr-alok-tiwari?label=Followers&style=flat-square&color=8B5CF6" alt="GitHub Followers" />
-</p>
-
----
-
-## 🧭 Profile Snapshot
-
-I am an **Assistant Professor in Big Data Analytics at Goa Institute of Management**, working at the intersection of **Artificial Intelligence, Healthcare Analytics, Machine Learning, Medical Imaging, Computer Vision, and Data-Driven Decision-Making**.
-
-My GitHub brings together my work on **research prototypes, analytics dashboards, teaching tools, applied AI workflows, and healthcare-oriented machine learning systems**.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Research Identity
-
-- AI in Healthcare  
-- Medical Imaging and Computer Vision  
-- Machine Learning and Deep Learning  
-- Explainable AI and Responsible Analytics  
-- Data-Driven Decision Support  
-
-</td>
-<td width="50%">
-
-### 🛠 Applied Build Areas
-
-- Streamlit and Flask applications  
-- Interactive dashboards  
-- GenAI-assisted academic workflows  
-- Teaching and learning analytics tools  
-- Reproducible research assets  
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 What I Am Building
-
-<table>
-<tr>
-<td width="33%">
-
-### 🩺 Healthcare AI
-Models and workflows for healthcare analytics, medical imaging, and clinical decision-support contexts.
-
-</td>
-<td width="33%">
-
-### 📊 Analytics Systems
-Dashboards, visual analytics, and business intelligence workflows for managerial decision-making.
-
-</td>
-<td width="33%">
-
-### 🤖 GenAI for Academia
-Tools for research writing, teaching innovation, assessment design, and academic productivity.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,opencv,flask,git,github,latex,vscode" alt="Skill Icons" />
+  <img src="https://komarev.com/ghpvc/?username=dr-alok-tiwari&label=Profile+Views&color=06B6D4&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/dr-alok-tiwari?label=Followers&style=flat-square&color=8B5CF6" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-0F172A?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Healthcare%20Analytics-06B6D4?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Academic%20Research-8B5CF6?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=600&lines=Medical+Imaging+AI+%7C+Transfer+Learning;Healthcare+Analytics+%7C+XAI+%7C+Responsible+AI;MLOps+%7C+FastAPI+%7C+Docker+%7C+Azure;Management+Education+%7C+MDPs+%7C+FDPs;GIM+Goa+%7C+IIT-BHU+PhD+2023" />
 </p>
 
 ---
 
-## 🌟 Featured Work Themes
+## ⚡ At a Glance
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🩺 AI in Healthcare
-Research and applied projects related to medical image analysis, healthcare analytics, and AI-enabled clinical decision-support systems.
+| 🎓 PhD | 📄 Journals | 📊 Citations | 🏫 Courses | 🏢 Executive Clients | 👩‍💻 Mentees |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| IIT-BHU · 2023 | 4 + 1 Book Chapter | 44 · h-index 4 | 7 PGDM Courses | 4 Industry MDPs | 29 Students |
 
-</td>
-<td width="50%">
-
-### 🧬 Medical Imaging
-Deep learning, transfer learning, segmentation, classification, and weakly supervised methods for X-ray, MRI, and related modalities.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 Big Data Analytics
-Data storytelling, dashboards, predictive analytics, exploratory analysis, and business-facing analytics applications.
-
-</td>
-<td width="50%">
-
-### 🎓 AI for Teaching and Research
-GenAI-powered educational tools, assessment-resistant learning design, research writing support, and academic workflow automation.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 📌 Recommended Pinned Repositories
+## 🧠 About
 
-These six repositories create a balanced profile across **research, teaching, analytics, software, and portfolio identity**.
+I work at a specific intersection: deep learning systems for medical imaging, and the challenge of making those systems legible to clinicians and decision-makers. My PhD research focused on weakly supervised segmentation in cardiac MRI and transfer learning for COVID-19 detection from chest X-rays. At GIM Goa, I teach healthcare analytics and machine learning to PGDM students who are mostly not coders — which makes translation as interesting as the research itself.
 
-| Repository | Positioning | Suggested Focus |
-|---|---|---|
-| `healthcare-analytics` | Flagship applied analytics project | Healthcare dashboards, EDA, prediction, SHAP |
-| `medical-imaging-ai` | Research depth | X-ray/MRI classification, segmentation, transfer learning |
-| `ai-research-assistant` | GenAI productivity | Literature review, proposal writing, manuscript support |
-| `genai-for-education` | Teaching innovation | Prompt libraries, classroom tools, assessment design |
-| `data-visualization-dashboard` | Business analytics | Power BI / Streamlit dashboards and storytelling |
-| `dr-alok-tiwari.github.io` | Professional identity | Portfolio, publications, teaching, projects |
+Outside the classroom, I am usually somewhere in a manuscript pipeline — computational psychiatry, agricultural ML, AI washing and narrative-capability gaps, fairness-aware credit scoring. I also run executive programmes for IOCL, Delhivery, Konkan Railways, and MetLife.
+
+If you are working on medical imaging AI, explainable AI, or AI for health systems, I am interested in talking.
+
+---
+
+## 🔬 Research Map
+
+```mermaid
+mindmap
+  root((Dr. Alok Tiwari))
+    Medical Imaging AI
+      Chest X-ray Classification
+      Cardiac MRI Segmentation
+      Brain Tumor Detection
+      MONAI and DICOM Pipelines
+    Deep Learning
+      Transfer Learning
+      Weakly Supervised Learning
+      CNNs · LSTMs · Transformers
+      Explainable AI
+    Healthcare Analytics
+      Clinical Decision Support
+      Health Informatics
+      Biomedical Data Science
+    Responsible AI
+      Fairness-Aware Modelling
+      AI Disclosure and Governance
+      Trustworthy Deployment
+    Management Education
+      PGDM and MBA Analytics
+      Executive MDPs and FDPs
+      AI for Pedagogy
+    MLOps and Systems
+      FastAPI · MLflow · Docker
+      CI/CD · Azure Databricks
+      Reproducible AI Pipelines
+```
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | What It Does |
+|:---|:---|
+| [**AI-Resistant-Assessment-Studio**](https://github.com/dr-alok-tiwari/AI-Resistant-Assessment-Studio) | Designs assessments that evaluate genuine reasoning — not recall a chatbot can replicate. GenAI-era pedagogy in practice. |
+| [**brain_tumor_classification**](https://github.com/dr-alok-tiwari/brain_tumor_classification) | Deep learning pipeline for MRI-based brain tumor classification. Core medical imaging work. |
+| [**AshaAid**](https://github.com/dr-alok-tiwari/AshaAid) | Human-centered applied AI targeting social and health impact contexts. Prototype stage. |
+| [**fix-the-friction-staff-retreat-2026**](https://github.com/dr-alok-tiwari/fix-the-friction-staff-retreat-2026) | Stakeholder inputs converted to an interactive institutional decision-support presentation. |
+| [**dr-alok-tiwari.github.io**](https://github.com/dr-alok-tiwari/dr-alok-tiwari.github.io) | Academic portfolio — research, teaching, projects, and collaborations in one place. |
+| [**ai4edu.github.io**](https://github.com/dr-alok-tiwari/ai4edu.github.io) | Public AI learning hub for students, educators, and curious practitioners. |
+
+</div>
+
+---
+
+## 📚 Publications
+
+> **2023**
+
+🔹 *Cascaded conventional + deep learning model for weakly supervised left-ventricle segmentation in cardiac MRI*
+**IETE Technical Review**, Taylor & Francis — Q2 · [DOI: 10.1080/02564602.2022.2055668](https://doi.org/10.1080/02564602.2022.2055668)
+
+🔹 *Comprehensive review on technological advances in alternate drug discovery and drug repurposing*
+**Current Trends in Biotechnology and Pharmacy** · [DOI: 10.5530/ctbp.2023.17](https://doi.org/10.5530/ctbp.2023.17)
+
+> **2022**
+
+🔹 *Detection of COVID-19 infection in CT and X-ray images using transfer learning*
+**Technology and Health Care**, IOS Press — Q3 · [DOI: 10.3233/THC-220114](https://doi.org/10.3233/THC-220114)
+
+🔹 *Deep learning-based automated multiclass classification of chest X-rays into COVID-19, normal, bacterial pneumonia, and viral pneumonia*
+**Cogent Engineering**, Taylor & Francis — Q2 · [DOI: 10.1080/23311916.2022.2105559](https://doi.org/10.1080/23311916.2022.2105559)
+
+📖 **Springer Book Chapter** — Neuroimaging tools for cerebrovascular blockage localisation
+🎤 **Conference Papers** — Brain stroke detection · Modified Pan-Tompkins ECG arrhythmia · Simulink-based cardiac modelling
+
+> **Active Pipeline**
+
+`computational psychiatry` · `bioinformatics` · `sustainable agriculture ML` · `AI washing / narrative-capability gaps` · `HRM value profiles` · `fairness-aware credit scoring`
+
+---
+
+## 🛠️ Technical Stack
+
+<div align="center">
+
+**Languages & Core ML**
+
+<img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,opencv,latex,matlab" />
+
+**MLOps · DevOps · Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,fastapi,flask,azure,vscode" />
+
+**Data & Frontend**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,html,css,js,react" />
+
+<br/>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MONAI](https://img.shields.io/badge/MONAI-Medical%20Imaging-06B6D4?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-LLMs-FCC72C?style=flat-square&logo=huggingface&logoColor=111827)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-XAI-8B5CF6?style=flat-square)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+</div>
+
+<div align="center">
+
+| Area | Tools |
+|:---|:---|
+| **Programming** | Python · R · MATLAB · SQL · NoSQL · LaTeX |
+| **Deep Learning & ML** | PyTorch · TensorFlow · Keras · scikit-learn · OpenCV · CUDA · MONAI · CNN · LSTM · Transformers · LLMs |
+| **XAI & Responsible AI** | SHAP · LIME · Grad-CAM · Fairness-aware modelling |
+| **Data Science & Viz** | NumPy · Pandas · Matplotlib · Seaborn · Plotly · Tableau · Power BI |
+| **MLOps & DevOps** | Git · Docker · Jenkins · CI/CD · MLflow · FastAPI · GitHub Actions |
+| **Big Data** | Hadoop · Spark · Hive · Kafka · Spark Streaming |
+| **Medical Imaging** | MONAI · DICOM · ImageJ · FSLeyes · MATLAB Image Toolbox |
+| **Cloud & HPC** | Azure · Azure Data Factory · Azure Databricks · Param Shivay Supercomputer |
+
+</div>
+
+---
+
+## 🎓 Teaching & Executive Education
+
+<div align="center">
+
+### PGDM / MBA — Goa Institute of Management
+
+| Course | Programme |
+|:---|:---|
+| Healthcare Analytics | PGDM-HCM |
+| Machine Learning with Generative AI | PGDM-BDA |
+| MLOps (Managerial) | PGDM-BDA |
+| Introduction to Programming: Python & R | PGDM-BDA |
+| AR/VR for Managers | PGDM |
+| Operations Strategy in the Era of AI | PGDM |
+| Logical Reasoning & Critical Thinking | PGDM |
+
+### Industry MDPs / FDPs
+
+| Organisation | Programme |
+|:---|:---|
+| 🛢️ Indian Oil Corporation | Business Analytics for Decision Making — 5-day MDP, 100+ executives |
+| 🚚 Delhivery | Storytelling with Data |
+| 🚂 Konkan Railways | AI in Railways |
+| 🏦 MetLife | AI in Accounting and Finance |
+| 🏛️ Govt. of Goa / E&ICT Academy | Python · Generative AI · AI Tools for Pedagogy |
+
+</div>
+
+---
+
+## 🏅 Awards & Service
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🥇 | Senior Research Fellow (SRF) — MHRD, Govt. of India, IIT-BHU |
+| 🥈 | Junior Research Fellow (JRF) — MHRD, Govt. of India, IIT-BHU |
+| 🎖️ | Teaching Assistantship — MHRD, Govt. of India, NIT Kurukshetra |
+| 📜 | Appreciation Letter — Govt. of Goa / E&ICT Academy, Feb 2026 |
+| ✅ | GATE Qualified — 2014 · 2016 · 2017 |
+| 🎓 | M.Tech with Honours — NIT Kurukshetra |
+| 🎓 | B.Tech with Honours — Gautam Buddha Technical University |
+| 📖 | Journal Reviewer — *Journal of Human Values* |
+| 📚 | Technical Book Reviewer — Packt Publishing (AI/ML) |
+
+</div>
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dr-alok-tiwari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&rank_icon=github" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr-alok-tiwari&theme=tokyonight&hide_border=true&border_radius=16" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dr-alok-tiwari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&title_color=06B6D4&icon_color=F59E0B&include_all_commits=true&rank_icon=github" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr-alok-tiwari&theme=tokyonight&hide_border=true&border_radius=16&ring=F59E0B&fire=F59E0B&currStreakLabel=06B6D4" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-alok-tiwari&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-alok-tiwari&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&title_color=06B6D4" height="170" />
 </p>
 
----
-
-## 🏆 GitHub Highlights
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dr-alok-tiwari&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dr-alok-tiwari&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </p>
 
----
-
-## 🧩 Selected Professional Keywords
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-1E3A8A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Healthcare%20Analytics-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Medical%20Imaging-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Big%20Data%20Analytics-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/Research%20Writing-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Teaching%20Innovation-0E7490?style=flat-square" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr-alok-tiwari&theme=tokyo-night&hide_border=true&color=06B6D4&line=F59E0B&point=ffffff&area=true" />
 </p>
 
 ---
 
-## 📚 Academic and Research Interests
+## 🤝 Collaboration
 
-- AI-enabled healthcare systems  
-- Deep learning for medical image classification and segmentation  
-- Machine learning for business and management analytics  
-- Explainable AI and responsible decision-making  
-- Generative AI for academic writing, teaching, and assessment design  
-- Data visualization and storytelling for managerial decision-making  
-
----
-
-## 🤝 Connect
+Open to work on medical imaging AI, healthcare analytics, explainable AI, responsible AI, MLOps, AI for education, and executive analytics training. If you are building something at those intersections, reach out.
 
 <p align="center">
-  <a href="https://dr-alok-tiwari.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-dr--alok--tiwari.github.io-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
   <a href="mailto:shodhkarta.alok@gmail.com">
     <img src="https://img.shields.io/badge/Email-shodhkarta.alok%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/dr-alok-tiwari/">
+    <img src="https://img.shields.io/badge/LinkedIn-dr--alok--tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dr-alok-tiwari.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-1E3A8A?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Using AI, analytics, and research to build practical impact in healthcare, education, and decision-making.</b>
-</p>
-
-<p align="center">
-  <img src="./assets/footer-wave.svg" width="100%" alt="Footer Wave" />
+  <img src="./assets/footer-wave.svg" width="100%" alt="Footer" />
 </p>
