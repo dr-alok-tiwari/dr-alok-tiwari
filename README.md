@@ -27,7 +27,7 @@
 ## ⚡ At a Glance
 
 | 🎓 PhD | 📄 Publications | 📊 Citations | 🏫 Courses | 🏢 Industry MDPs | 👩‍💻 Mentees |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:----:|:----:|:----:|:----:|:---:|
 | IIT-BHU · 2023 | 4 Journals · 1 Book Chapter · 3 Conf. | 44 · h-index 4 | 7 PGDM Courses | 4 Clients · 100+ Executives | 29 Students |
 
 ---
