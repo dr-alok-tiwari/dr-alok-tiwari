@@ -1,1 +1,95 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mainGradient" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.32" stop-color="#0F172A"/>
+      <stop offset="0.58" stop-color="#1E3A8A"/>
+      <stop offset="0.78" stop-color="#0891B2"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1280 130) rotate(90) scale(260)">
+      <stop stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGold" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 360) rotate(90) scale(200)">
+      <stop stop-color="#F59E0B" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="90" y1="0" x2="410" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#FCD34D"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#020617" flood-opacity="0.45"/>
+    </filter>
+    <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
 
+  <rect width="1600" height="520" rx="34" fill="url(#mainGradient)"/>
+  <rect width="1600" height="520" rx="34" fill="url(#grid)"/>
+  <rect width="1600" height="520" rx="34" fill="url(#glowCyan)"/>
+  <rect width="1600" height="520" rx="34" fill="url(#glowGold)"/>
+
+  <path d="M0 410 C210 355 360 465 620 405 C910 338 1110 455 1600 350 L1600 520 L0 520 Z" fill="#FFFFFF" fill-opacity="0.055"/>
+  <path d="M0 438 C230 380 410 492 690 424 C1000 350 1220 475 1600 390" stroke="#FFFFFF" stroke-opacity="0.13" stroke-width="2"/>
+
+  <circle cx="1390" cy="96" r="106" fill="#FFFFFF" fill-opacity="0.05"/>
+  <circle cx="1510" cy="220" r="54" fill="#FFFFFF" fill-opacity="0.07"/>
+  <circle cx="1215" cy="310" r="78" fill="#FFFFFF" fill-opacity="0.04"/>
+  <circle cx="1480" cy="86" r="13" fill="#FCD34D" fill-opacity="0.95"/>
+  <circle cx="1335" cy="246" r="8" fill="#22D3EE" fill-opacity="0.9"/>
+  <circle cx="1120" cy="104" r="7" fill="#A78BFA" fill-opacity="0.95"/>
+
+  <g opacity="0.9">
+    <line x1="92" y1="114" x2="392" y2="114" stroke="url(#gold)" stroke-width="9" stroke-linecap="round"/>
+    <line x1="92" y1="132" x2="240" y2="132" stroke="#22D3EE" stroke-width="4" stroke-linecap="round" stroke-opacity="0.9"/>
+  </g>
+
+  <text x="92" y="205" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-1.2" filter="url(#textGlow)">
+    Dr. Alok Tiwari
+  </text>
+
+  <text x="96" y="263" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="29" font-weight="600">
+    Assistant Professor · Big Data Analytics · AI Researcher
+  </text>
+
+  <text x="96" y="313" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">
+    Healthcare AI • Machine Learning • Medical Imaging • Data Science • Teaching Innovation
+  </text>
+
+  <g>
+    <rect x="96" y="354" width="198" height="48" rx="24" fill="#06B6D4" fill-opacity="0.18" stroke="#67E8F9" stroke-opacity="0.75"/>
+    <text x="124" y="385" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">AI for Impact</text>
+
+    <rect x="314" y="354" width="214" height="48" rx="24" fill="#8B5CF6" fill-opacity="0.17" stroke="#C4B5FD" stroke-opacity="0.65"/>
+    <text x="342" y="385" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Healthcare Analytics</text>
+
+    <rect x="548" y="354" width="186" height="48" rx="24" fill="#F59E0B" fill-opacity="0.16" stroke="#FCD34D" stroke-opacity="0.75"/>
+    <text x="577" y="385" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Research Driven</text>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="1030" y="142" width="340" height="222" rx="28" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.2"/>
+    <text x="1074" y="196" fill="#FCD34D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Core Domains</text>
+    <text x="1074" y="240" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">01  Healthcare AI</text>
+    <text x="1074" y="276" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">02  Machine Learning</text>
+    <text x="1074" y="312" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">03  Medical Imaging</text>
+    <text x="1074" y="348" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">04  Data Analytics</text>
+  </g>
+
+  <g opacity="0.95">
+    <circle cx="1008" cy="390" r="5" fill="#22D3EE"/>
+    <circle cx="1033" cy="390" r="5" fill="#A78BFA"/>
+    <circle cx="1058" cy="390" r="5" fill="#FCD34D"/>
+    <line x1="1085" y1="390" x2="1370" y2="390" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="1600" height="160" viewBox="0 0 1600 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGradient" x1="0" y1="0" x2="1600" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.38" stop-color="#1E3A8A"/>
+      <stop offset="0.72" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="160" rx="26" fill="url(#waveGradient)"/>
+  <path d="M0 88 C250 20 430 134 690 78 C965 19 1170 132 1600 58 L1600 160 L0 160 Z" fill="#FFFFFF" fill-opacity="0.12"/>
+  <path d="M0 116 C310 46 470 153 760 100 C1055 47 1210 143 1600 92" stroke="#FFFFFF" stroke-opacity="0.24" stroke-width="3"/>
+  <text x="800" y="82" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="750">
+    AI · Analytics · Healthcare · Research · Teaching Innovation
+  </text>
+  <text x="800" y="118" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">
+    Building practical, research-driven impact through data and intelligent systems
+  </text>
+</svg>
