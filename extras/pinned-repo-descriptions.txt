@@ -1,0 +1,19 @@
+Recommended pinned repository descriptions
+
+1. healthcare-analytics
+AI-driven healthcare analytics projects integrating machine learning, visualization, explainability, and decision support.
+
+2. medical-imaging-ai
+Deep learning and computer vision workflows for medical image classification, segmentation, and transfer learning.
+
+3. ai-research-assistant
+AI-powered research assistant for literature review, proposal development, manuscript support, and academic workflows.
+
+4. genai-for-education
+Generative AI tools, prompt libraries, and teaching resources for academic innovation and assessment design.
+
+5. data-visualization-dashboard
+Interactive dashboards and visual analytics applications for business, healthcare, and education use cases.
+
+6. dr-alok-tiwari.github.io
+Personal academic portfolio showcasing research, teaching, projects, publications, and professional achievements.
