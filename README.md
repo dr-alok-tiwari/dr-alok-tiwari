@@ -125,6 +125,97 @@ I work at the intersection of **research, education, and implementation**—desi
 
 ---
 
+## Latest Project Highlights
+
+<!-- LATEST-PROJECTS:START -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Master Prompt Studio](https://github.com/dr-alok-tiwari/Master-Prompt-Studio-by-Dr-Alok-Tiwari)
+
+A production-ready, offline **Streamlit prompt-engineering studio** for academic, research, teaching, productivity, career, and professional writing workflows.
+
+**Highlights:** 12+ specialised prompt studios, local prompt library, TXT/MD/DOCX export, file upload support, template support, and health-check validation.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [GenAI Executive Management Studio](https://github.com/dr-alok-tiwari/genai_executive_management_studio)
+
+A classroom-ready GenAI portal for **MDPs, FDPs, executive education, and management classrooms** with no paid API dependency.
+
+**Highlights:** prompt builder, nudges lab, document intelligence, responsible AI classifier, caselet simulator, AI readiness checklist, quizzes, and instructor mode.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [Machine Learning for Managers Studio](https://github.com/dr-alok-tiwari/Machine-Learning-Studio-by-Dr-Alok-Tiwari)
+
+A visual and decision-oriented ML teaching studio for **PGDM/MBA students, executives, and faculty** with a no-coding managerial orientation.
+
+**Highlights:** ML lifecycle roadmap, supervised and unsupervised learning, XAI, MLOps, Orange labs, case studies, prompt library, quizzes, activities, and handbook downloads.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 [Healthcare Analytics for PGDM-HCM](https://github.com/dr-alok-tiwari/healthcare-analytics-by-dr-alok-tiwari)
+
+A complete 24-session healthcare analytics learning studio for management learners with limited programming background.
+
+**Highlights:** Power BI and Orange labs, synthetic healthcare datasets, KPI dictionary, case-study studio, quiz arena, gamification, instructor dashboard, and download center.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Storytelling using Data Visualization](https://github.com/dr-alok-tiwari/storytelling_dataviz_by_dr_alok_tiwari)
+
+A self-contained Streamlit teaching app for the PGDM-BDA course on **data visualization, dashboard design, and data storytelling**.
+
+**Highlights:** 16 session modules, synthetic datasets, chart engine, story builder, quiz zone, cases, teaching narratives, activities, and classroom-ready resources.
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Stock Market Analysis Studio](https://github.com/dr-alok-tiwari/stock-market-studio)
+
+A classroom-ready investor-education analytics studio built with Streamlit, optional Flask API, and free/open-source Python libraries.
+
+**Highlights:** technical indicators, portfolio analytics, forecasting, risk-return metrics, sentiment module, quizzes, and downloadable Word/PDF reports.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 [Intelligent Research Studio](https://github.com/dr-alok-tiwari/intelligent_research_studio)
+
+A research-productivity build focused on structured academic thinking, research planning, writing support, and scholar-facing workflows.
+
+**Highlights:** research ideation, literature-workflow support, structured prompts, manuscript planning, and academic productivity scaffolds.
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [JournalFit / ABDC Journal Finder Studio](https://github.com/dr-alok-tiwari/journalfit-studio)
+
+A journal-targeting and publication-planning studio for matching research manuscripts with suitable journals and improving submission strategy.
+
+**Highlights:** manuscript-positioning support, journal-fit reasoning, publication planning, and academic writing workflow support.
+
+</td>
+</tr>
+</table>
+
+<!-- LATEST-PROJECTS:END -->
+
+---
+
 ## Featured Projects
 
 > I prioritize repositories that reflect **original work, educational innovation, healthcare AI alignment, or real-world decision-support value**.
