@@ -261,12 +261,14 @@ A journal-targeting and publication-planning studio for matching research manusc
 
 ### Academic Courses
 - Healthcare Analytics
+- Sports Analytics
 - Machine Learning with Generative AI
 - MLOps (Managerial)
 - Introduction to Programming (Python & R)
 - AR/VR for Managers
 - Operations Strategy in the Era of AI
 - Logical Reasoning & Critical Thinking
+- Storytelling using Data Visualization
 
 </td>
 <td valign="top" width="50%">
