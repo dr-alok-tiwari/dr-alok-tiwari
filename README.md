@@ -346,8 +346,22 @@ mindmap
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dr-alok-tiwari&show_icons=true&theme=transparent&hide_border=true&title_color=0B5CAD&text_color=334155&icon_color=F4B942" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-alok-tiwari&layout=compact&theme=transparent&hide_border=true&title_color=0B5CAD&text_color=334155" alt="Top Languages" />
 </div>
+
+### Technology Footprint
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-Teaching%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-MLOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-Academic%20Writing-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dr-alok-tiwari&theme=transparent&hide_border=true&ring=F4B942&fire=F4B942&currStreakLabel=0B5CAD" alt="GitHub Streak" />
