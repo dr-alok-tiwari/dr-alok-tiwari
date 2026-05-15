@@ -277,6 +277,7 @@ A journal-targeting and publication-planning studio for matching research manusc
 - Storytelling with Data — **Delhivery**
 - AI in Railways — **Konkan Railways**
 - Introduction to Python / Generative AI / AI Tools for Pedagogy — **Government of Goa / E&ICT Academy**
+- Generative AI for Executive Management - **AJNIFM Faridabad**
 
 </td>
 </tr>
